@@ -1,0 +1,11 @@
+.one{background-color:#EA5455; height:50px; width:50%;}
+.two{background-color:#E49393; height:50px; width:50%; position: relative;
+left:50%; bottom:50px;}
+body{margin:0px;}
+
+#scene{margin:0px; position:relative; bottom:50px;}
+
+
+.first{font-family:sacramento,ariel}
+
+.bgi{background-image:url();}
